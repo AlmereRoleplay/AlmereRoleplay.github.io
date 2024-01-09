@@ -37,36 +37,23 @@ body {
     font-size: 1.0416666666666667vw;
     line-height: 1.25vw;
     color: #FFFFFF;
-    left: 25%;
+    left: 29%;
     top: 7%;
     text-decoration: none;
 }
 
 #home:hover {
-    color: #0084ff;
+    color: #2cd71a;
 }
 
 #homestrich {
     position: absolute;
     width: 2.3681377825618943vh;
     height: 0.10416666666666667vw;
-    background: #0084FF;
-    box-shadow: 0wv 0wv 0.15625vw #6DB9FF;
+    background: #2cd71a;
+    box-shadow: 0wv 0wv 0.15625vw #69f959;
     top: 10%;
-    left: 25.5%;
-}
-
-#forum {
-    position: absolute;
-    font-family: 'Akrobat Light', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.0416666666666667vw;
-    line-height: 1.25vw;
-    color: #FFFFFF;
-    left: 40%;
-    top: 7%;
-    text-decoration: none;
+    left: 29.5%;
 }
 
 #copyright {
@@ -82,27 +69,6 @@ body {
     text-decoration: none;
 }
 
-#forum:hover {
-    color: #0084ff;
-}
-
-#shop {
-    position: absolute;
-    font-family: 'Akrobat Light', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.0416666666666667vw;
-    line-height: 1.25vw;
-    color: #FFFFFF;
-    left: 55%;
-    top: 7%;
-    text-decoration: none;
-}
-
-#shop:hover {
-    color: #0084ff;
-}
-
 #regelwerk {
     position: absolute;
     font-family: 'Akrobat Light', sans-serif;
@@ -111,13 +77,13 @@ body {
     font-size: 1.0416666666666667vw;
     line-height: 1.25vw;
     color: #FFFFFF;
-    left: 70%;
+    left: 54.5%;
     top: 7%;
     text-decoration: none;
 }
 
 #regelwerk:hover {
-    color: #0084ff;
+    color: #2cd71a;
 }
 
 #dc {
@@ -134,7 +100,7 @@ body {
 }
 
 #dc:hover {
-    color: #0084ff;
+    color: #2cd71a;
 }
 
 #brezelrp {
@@ -143,7 +109,7 @@ body {
     font-weight: 700;
     font-size: 3.125vw;
     line-height: 2.5vw;
-    color: #0084FF;
+    color: #2cd71a;
 }
 
 #brezelrpweiß {
@@ -218,7 +184,7 @@ body {
 
 #playtext {
     position: absolute;
-    left: 40%;
+    left: 30%;
     top: 30%;
     font-family: 'Akrobat Light', sans-serif;
     font-style: normal;
@@ -245,7 +211,7 @@ body {
     font-weight: 500;
     font-size: 1.5416666666666667vw;
     line-height: 1.5625vw;
-    color: #0084FF;
+    color: #2cd71a;
     top: 5.4%;
     left: 9%;
 }
@@ -262,8 +228,8 @@ body {
     position: absolute;
     width: 44.13347685683531vh;
     height: 4.583333333333333vw;
-    background: rgba(0, 132, 255, 0.8);
-    box-shadow: 0vw 0vw 0.2604166666666667vw #65C7FF;
+    background: #69f959;
+    box-shadow: 0vw 0vw 0.2604166666666667vw #69f959;
     border-radius: 0.2604166666666667vw;
     text-align: center;
     top: 80%;
@@ -278,7 +244,6 @@ body {
 }
 
 #play:after {
-    content: '▶';
     font-family: 'Akrobat Light', sans-serif;
     font-style: normal;
     font-weight: 300;
@@ -332,7 +297,7 @@ body {
         font-weight: 500;
         font-size: 8.0416666666666667vw;
         line-height: 8.5625vw;
-        color: #0084FF;
+        color: #2cd71a;
         top: 2%;
         left: 40%;
     }
@@ -351,7 +316,7 @@ body {
         font-weight: 700;
         font-size: 8.125vw;
         line-height: 2.5vw;
-        color: #0084FF;
+        color: #2cd71a;
         position: absolute;
         left: 12.5%;
     }
@@ -428,8 +393,8 @@ body {
         position: absolute;
         width: 24.13347685683531vh;
         height: 10.583333333333333vw;
-        background: rgba(0, 132, 255, 0.8);
-        box-shadow: 0vw 0vw 0.2604166666666667vw #65C7FF;
+        background: #69f959;
+        box-shadow: 0vw 0vw 0.2604166666666667vw #69f959;
         border-radius: 0.2604166666666667vw;
         text-align: center;
         top: 80%;
